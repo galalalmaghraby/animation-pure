@@ -354,5 +354,9 @@
     /* newFeatures */
     .newFeatures{
         margin: 0px !important;
+        width: 100%;
+    }
+    .newFeatures .item{
+        margin: 20px auto !important;
     }
 }
